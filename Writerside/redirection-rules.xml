@@ -10,4 +10,8 @@
         <description>Created after removal of "Terminal Commands" from Terminal</description>
         <accepts>Terminal.html</accepts>
     </rule>
+    <rule id="2f0ccc1f">
+        <description>Created after removal of "Cheat Sheets" from Cheat Sheets</description>
+        <accepts>Cheat-Sheets.html</accepts>
+    </rule>
 </rules>

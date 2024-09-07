@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="cs"
+                 name="Cheat Sheets"
+                 start-page="Cheat-Sheets.md">
+    <toc-element topic="Cheat-Sheets.md">
+        <toc-element topic="Prisma.md"/>
+        <toc-element topic="NX.md"/>
+        <toc-element topic="NPX.md"/>
+        <toc-element topic="NPM.md"/>
+        <toc-element topic="NestJS.md"/>
+        <toc-element topic="Git.md"/>
+        <toc-element topic="Docker.md"/>
+        <toc-element topic="Angular.md"/>
+    </toc-element>
+</instance-profile>
