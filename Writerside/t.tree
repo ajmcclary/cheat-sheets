@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="t"
+                 name="Terminal"
+                 start-page="Terminal.md">
+
+    <toc-element topic="Terminal.md">
+        <toc-element topic="Angular.md"/>
+        <toc-element topic="Docker.md"/>
+        <toc-element topic="Git.md"/>
+        <toc-element topic="NestJS.md"/>
+        <toc-element topic="NPM.md"/>
+        <toc-element topic="NPX.md"/>
+        <toc-element topic="NX.md"/>
+        <toc-element topic="Prisma.md"/>
+    </toc-element>
+</instance-profile>
