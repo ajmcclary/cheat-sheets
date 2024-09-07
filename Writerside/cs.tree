@@ -6,13 +6,13 @@
                  name="Cheat Sheets"
                  start-page="Cheat-Sheets.md">
     <toc-element topic="Cheat-Sheets.md">
-        <toc-element topic="Prisma.md"/>
-        <toc-element topic="NX.md"/>
-        <toc-element topic="NPX.md"/>
-        <toc-element topic="NPM.md"/>
-        <toc-element topic="NestJS.md"/>
-        <toc-element topic="Git.md"/>
-        <toc-element topic="Docker.md"/>
         <toc-element topic="Angular.md"/>
+        <toc-element topic="Docker.md"/>
+        <toc-element topic="Git.md"/>
+        <toc-element topic="NestJS.md"/>
+        <toc-element topic="NPM.md"/>
+        <toc-element topic="NPX.md"/>
+        <toc-element topic="NX.md"/>
+        <toc-element topic="Prisma.md"/>
     </toc-element>
 </instance-profile>
