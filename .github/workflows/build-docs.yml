@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 env:
-  INSTANCE: 'Writerside/Terminal'
+  INSTANCE: 'Writerside/T2'
   ARTIFACT: 'webHelpT2-all.zip'
   DOCKER_VERSION: '241.18775'
 
