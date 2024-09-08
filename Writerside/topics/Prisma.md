@@ -1,6 +1,6 @@
 # Prisma
 
-## Basic Prisma Commands
+## Basic Commands
 
 **Install Prisma CLI**
 ```bash
@@ -47,7 +47,7 @@ npx prisma migrate dev --name <migration_name>
 npx prisma migrate deploy
 ```
 
-## Prisma Database Commands
+## Database Commands
 
 **Pull the database schema into Prisma**
 ```bash
@@ -64,7 +64,7 @@ npx prisma db seed
 npx prisma studio
 ```
 
-## Prisma Project Management
+## Project Management
 
 **Validate the Prisma schema**
 ```bash

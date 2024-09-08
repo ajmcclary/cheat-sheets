@@ -1,6 +1,6 @@
 # Npm
 
-## Basic
+## Basic Commands
 
 **Check NPM version**
   ```bash

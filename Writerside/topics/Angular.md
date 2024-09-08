@@ -1,6 +1,6 @@
 # Angular
 
-## Basic Angular Commands
+## Basic Commands
 
 **Install Angular CLI globally**
 ```bash
@@ -32,7 +32,7 @@ ng e2e
 ng test
 ```
 
-## Generate Angular Components & Modules
+## Generate Components & Modules
 
 **Generate a new component**
 ```bash

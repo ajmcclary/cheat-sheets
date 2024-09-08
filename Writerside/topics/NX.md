@@ -1,6 +1,6 @@
 # Nx
 
-## Basic NX Commands
+## Basic Commands
 
 **Create a new NX workspace**
 ```bash
@@ -32,7 +32,7 @@ nx build <project>
 nx serve <project>
 ```
 
-## NX Workspace Management
+## Workspace Management
 
 **Generate a new project**
 ```bash

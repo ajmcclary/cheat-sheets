@@ -1,6 +1,6 @@
 # Git
 
-## Basic GIT Commands
+## Basic Commands
 
 **Check GIT version**
 ```bash

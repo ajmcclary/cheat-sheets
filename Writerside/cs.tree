@@ -9,10 +9,13 @@
         <toc-element topic="Angular.md"/>
         <toc-element topic="Docker.md"/>
         <toc-element topic="Git.md"/>
+        <toc-element topic="Nano.md"/>
         <toc-element topic="NestJS.md"/>
         <toc-element topic="NPM.md"/>
         <toc-element topic="NPX.md"/>
         <toc-element topic="NX.md"/>
         <toc-element topic="Prisma.md"/>
+        <toc-element topic="Unix.md"/>
+        <toc-element topic="Vim.md"/>
     </toc-element>
 </instance-profile>

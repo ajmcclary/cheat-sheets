@@ -1,6 +1,6 @@
 # Docker
 
-## Basic
+## Basic Commands
 
 **Check Docker version**
   ```bash

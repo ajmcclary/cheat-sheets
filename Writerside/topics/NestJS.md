@@ -1,6 +1,6 @@
 # Nest
 
-## Basic NestJS Commands
+## Basic Commands
 
 **Create a new NestJS project**
 ```bash
@@ -27,7 +27,7 @@ npm run build
 npm run start:prod
 ```
 
-## Nest CLI Commands
+## Nest CLI
 
 **Generate a new module**
 ```bash

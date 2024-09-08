@@ -1,6 +1,6 @@
 # Npx
 
-## Basic NPX Commands
+## Basic Commands
 
 **Execute a package without installing it**
 ```bash
@@ -27,7 +27,7 @@ npx github:<user>/<repo>
 npx <generator_name> <project_name>
 ```
 
-## Miscellaneous NPX Commands
+## Miscellaneous Commands
 
 **Run a command with no cache**
 ```bash
@@ -59,7 +59,7 @@ npx create-next-app <app_name>
 npx @nestjs/cli new <project_name>
 ```
 
-## Advanced NPX Usage
+## Advanced Usage
 
 **Execute a script from a gist**
 ```bash
