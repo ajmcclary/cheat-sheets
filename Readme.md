@@ -14,6 +14,9 @@ This project, created using JetBrains' Writerside, includes a collection of chea
 - **NX Cheat Sheet**: Commands for managing monorepos with NX, including running builds, generating projects, testing, and visualizing dependency graphs.
 - **Prisma Cheat Sheet**: Commands for working with Prisma ORM, including schema management, database migrations, and seeding.
 - **Terminal Cheat Sheet**: Useful terminal commands for developers working in different environments.
+- **Nano Cheat Sheet**: Covers essential Nano editor commands such as file navigation, text editing, saving files, and enabling features like line numbers and mouse support​(Nano).
+- **Unix Cheat Sheet**: Lists commands for file management, process control, networking, and system operations, including changing directories, viewing files, and managing processes​(Unix).
+- **Vim Cheat Sheet**: Provides an overview of essential Vim commands for file editing, navigation, text manipulation, and search and replace operations​(Vim).
 
 ### Benefits of Using These Cheat Sheets
 
